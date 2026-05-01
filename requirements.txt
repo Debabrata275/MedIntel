@@ -1,0 +1,14 @@
+sentence-transformers
+langchain
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain-community
+langchain-groq
+langchain-experimental
+-e .
