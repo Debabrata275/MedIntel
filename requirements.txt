@@ -1,4 +1,3 @@
-sentence-transformers
 langchain
 fastapi
 uvicorn[standard]
@@ -11,4 +10,5 @@ langchain-pinecone
 langchain-community
 langchain-groq
 langchain-experimental
+fastembed
 -e .
